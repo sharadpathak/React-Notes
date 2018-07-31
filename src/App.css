@@ -1,0 +1,24 @@
+body{
+  background-image: linear-gradient(to bottom, #ccc, #bcd, #abc, #dcd, #ccc);
+}
+
+header{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  background-color: #e6e6e6;
+  color:#FFF;
+  height:100px;
+  width:100%;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #aaa;
+  box-shadow: 1px 1px #aaa;
+  padding-top:20px;
+  background-image: linear-gradient(to bottom, #1a6eed, #246bcc, #3666aa, #455f88, #4f5866);
+/* This last line is all you need for modern browsers */ 
+}
+
+ul {Padding-left: 0}
+li{
+  list-style-type:none;
+}
